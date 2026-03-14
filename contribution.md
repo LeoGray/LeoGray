@@ -1,3 +1,9 @@
-# Contribution Statistics
+# GitHub Contributions
 
-*Stats will be updated automatically by GitHub Actions.*
+### Repos I Created
+<!-- BEGIN:created_repos -->
+<!-- END:created_repos -->
+
+### Repos I've Contributed To
+<!-- BEGIN:contributed -->
+<!-- END:contributed -->
