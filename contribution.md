@@ -2,10 +2,10 @@
 
 ### Repos I Created
 <!-- BEGIN:created_repos -->
-| No.   | Name                                          | Language   | Stars | Forks | Last Update |
-|-------|-----------------------------------------------|------------|-------|-------|-------------|
-| 1     | [iPrompt](https://github.com/LeoGray/iPrompt) | TypeScript | 2     | 0     | 2025-08-08  |
-| Total |                                               |            | 2     | 0     |             |
+| No.   | Name                                              | Language   | Stars | Forks | Last Update |
+|-------|---------------------------------------------------|------------|-------|-------|-------------|
+| 1     | [flaredeck](https://github.com/LeoGray/flaredeck) | TypeScript | 1     | 0     | 2026-06-26  |
+| Total |                                                   |            | 1     | 0     |             |
 <!-- END:created_repos -->
 
 ### Repos I've Contributed To
