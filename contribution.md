@@ -10,8 +10,7 @@
 
 ### Repos I've Contributed To
 <!-- BEGIN:contributed -->
-| No.   | Name                                                      | Stars | First PR                                                  | Last PR                                                   | PR Count                                                                   |
-|-------|-----------------------------------------------------------|-------|-----------------------------------------------------------|-----------------------------------------------------------|----------------------------------------------------------------------------|
-| 1     | [badships/PolyPost](https://github.com/badships/PolyPost) | 0     | [2026-11-18](https://github.com/badships/PolyPost/pull/2) | [2026-11-19](https://github.com/badships/PolyPost/pull/4) | [3](https://github.com/badships/PolyPost/pulls?q=is%3Apr+author%3ALeoGray) |
-| Total |                                                           |       |                                                           |                                                           | 3                                                                          |
+| No.   | Name | Stars | First PR | Last PR | PR Count |
+|-------|------|-------|----------|---------|----------|
+| Total |      |       |          |         | 0        |
 <!-- END:contributed -->
